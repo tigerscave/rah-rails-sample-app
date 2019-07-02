@@ -1,0 +1,1 @@
+--with-ld-flags=-L/usr/local/opt/libffi/lib
