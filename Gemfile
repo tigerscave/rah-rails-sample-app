@@ -6,8 +6,6 @@ ruby '2.5.1'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 6.0.0.rc1'
 
-gem 'sqlite3', '~> 1.4', '>= 1.4.1'
-
 # Use postgresql as the database for Active Record
 gem 'pg', '>= 0.18', '< 2.0'
 # Use Puma as the app server
@@ -25,7 +23,9 @@ gem 'jbuilder', '~> 2.5'
 # Use Active Model has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
-gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
+gem 'bootstrap-sass', '>= 3.3.7'
+
+gem 'bcrypt', '>= 3.1.13'
 
 gem 'rails-controller-testing'
 
