@@ -32,6 +32,10 @@ gem 'rails-controller-testing'
 # for create a sample user for testing
 gem 'faker', '>= 1.9.6'
 
+
+gem 'will_paginate', '>= 3.1.7'
+gem 'bootstrap-will_paginate', '~> 1.0'
+
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 
