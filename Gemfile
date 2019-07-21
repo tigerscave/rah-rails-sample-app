@@ -29,6 +29,9 @@ gem 'bcrypt', '>= 3.1.13'
 
 gem 'rails-controller-testing'
 
+# for create a sample user for testing
+gem 'faker', '>= 1.9.6'
+
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 
