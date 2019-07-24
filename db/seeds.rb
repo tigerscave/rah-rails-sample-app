@@ -7,7 +7,7 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 
 User.create!(name: "example User",
-             email: "example@railstutorial.org",
+             email: "rezaei@adawarp.com",
              password: "password",
              password_confirmation: 'password',
              admin: true,
